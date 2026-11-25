@@ -1,0 +1,154 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "KL Official College Backpack",
+      "description": "Ergonomic, water-resistant student backpack with 15.6 inch laptop sleeve and university crest.",
+      "category": "accessories",
+      "price": 1999,
+      "rating": 4.9,
+      "stock": 35,
+      "thumbnail": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": 2,
+      "title": "Wireless Noise Cancelling Headphones",
+      "description": "Deep bass, 40-hour battery life, and active noise cancellation for undisturbed campus study sessions.",
+      "category": "electronics",
+      "price": 3999,
+      "rating": 4.8,
+      "stock": 20,
+      "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": 3,
+      "title": "Engineering Scientific Calculator",
+      "description": "Advanced non-programmable 417 functions calculator approved for university semester exams.",
+      "category": "stationery",
+      "price": 1299,
+      "rating": 4.95,
+      "stock": 50,
+      "thumbnail": "https://images.unsplash.com/photo-1594980596870-8aa52a78d8cd?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": 4,
+      "title": "Ergonomic Bluetooth Mouse",
+      "description": "Dual-mode silent click wireless mouse with rechargeable battery and precision tracking.",
+      "category": "electronics",
+      "price": 999,
+      "rating": 4.7,
+      "stock": 42,
+      "thumbnail": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": 5,
+      "title": "Insulated Stainless Steel Campus Flask",
+      "description": "Double-wall vacuum insulated 750ml water bottle keeps drinks cold for 24 hours.",
+      "category": "accessories",
+      "price": 699,
+      "rating": 4.6,
+      "stock": 60,
+      "thumbnail": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": 6,
+      "title": "Mechanical Gaming & Coding Keyboard",
+      "description": "RGB tactile mechanical switches with anti-ghosting keys, ideal for programming labs.",
+      "category": "electronics",
+      "price": 2999,
+      "rating": 4.85,
+      "stock": 18,
+      "thumbnail": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": 7,
+      "title": "Calvin Klein CK One Fragrance",
+      "description": "Fresh citrus unisex fragrance with green tea, papaya, and bergamot.",
+      "category": "grooming",
+      "price": 3499,
+      "rating": 4.8,
+      "stock": 15,
+      "thumbnail": "https://cdn.dummyjson.com/products/images/fragrances/Calvin%20Klein%20CK%20One/thumbnail.png"
+    },
+    {
+      "id": 8,
+      "title": "High-Speed 65W GaN Fast Charger",
+      "description": "Multi-port USB-C fast charging brick capable of powering laptops, tablets, and phones simultaneously.",
+      "category": "electronics",
+      "price": 2199,
+      "rating": 4.9,
+      "stock": 25,
+      "thumbnail": "https://images.unsplash.com/photo-1583863788434-e58a36330cf0?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": 9,
+      "title": "Premium Hardbound Lab Journal Notebook",
+      "description": "200-page ruled acid-free journal with pen loop, bookmark ribbon, and expandable back pocket.",
+      "category": "stationery",
+      "price": 499,
+      "rating": 4.75,
+      "stock": 80,
+      "thumbnail": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": 10,
+      "title": "Matte Finish Coffee Mug - KL Edition",
+      "description": "Ceramic coffee mug printed with motivational engineering quotes and university badge.",
+      "category": "accessories",
+      "price": 399,
+      "rating": 4.5,
+      "stock": 40,
+      "thumbnail": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": 11,
+      "title": "Essence Mascara Lash Princess",
+      "description": "Popular volumizing and lengthening mascara providing high definition look.",
+      "category": "grooming",
+      "price": 699,
+      "rating": 4.94,
+      "stock": 22,
+      "thumbnail": "https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/thumbnail.png"
+    },
+    {
+      "id": 12,
+      "title": "Eyeshadow Palette with Mirror",
+      "description": "Rich pigmented eyeshadow collection with compact mirror.",
+      "category": "grooming",
+      "price": 1499,
+      "rating": 4.3,
+      "stock": 19,
+      "thumbnail": "https://cdn.dummyjson.com/products/images/beauty/Eyeshadow%20Palette%20with%20Mirror/thumbnail.png"
+    },
+    {
+      "id": 13,
+      "title": "HP 15s Ryzen 5 Student Laptop",
+      "description": "15.6 inch FHD Anti-Glare, AMD Ryzen 5 5500U, 16GB RAM, 512GB NVMe SSD, lightweight coding & study laptop.",
+      "category": "laptops",
+      "price": 42990,
+      "rating": 4.85,
+      "stock": 10,
+      "thumbnail": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": 14,
+      "title": "Lenovo IdeaPad Slim 3 i5 Laptop",
+      "description": "15.6 inch FHD, Intel Core i5 12th Gen, 16GB RAM, 512GB SSD, backlit keyboard for CSE & AI labs.",
+      "category": "laptops",
+      "price": 47490,
+      "rating": 4.8,
+      "stock": 8,
+      "thumbnail": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": 15,
+      "title": "ASUS Vivobook 16 Pro Laptop",
+      "description": "16 inch WUXGA Display, Intel Core i5 H-Series, 16GB RAM, 512GB SSD for heavy simulation & ML workloads.",
+      "category": "laptops",
+      "price": 58990,
+      "rating": 4.9,
+      "stock": 6,
+      "thumbnail": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?w=500&auto=format&fit=crop&q=60"
+    }
+  ]
+}
